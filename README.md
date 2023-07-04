@@ -7,7 +7,7 @@ Este é um guia básico sobre como usar o **Tailwind** em projetos **Angular** e
   * Este comando criará um novo projeto Angular chamado "my-app" em seu projeto Nx.
 ```shell
 npm install @nrwl/angular
-npx -p @nrwl/nx nx g @nx/angular:application my-app
+npx -p @nrwl/nx nx g @nrwl/angular:application my-app
 ```
 
 * Para configurar o **Tailwind** em seu projeto Angular, você pode executar o seguinte comando:
